@@ -1,0 +1,8 @@
+ollama
+PyQt5
+keyboard
+mss
+Pillow
+faster-whisper
+python-dotenv
+numpy
