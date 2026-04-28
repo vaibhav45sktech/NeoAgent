@@ -1,6 +1,6 @@
 # NeoAgent
 
-NeoAgent is a local, privacy-first AI desktop assistant built with :contentReference[oaicite:0]{index=0}, :contentReference[oaicite:1]{index=1}, and :contentReference[oaicite:2]{index=2} for real-time desktop intelligence.  
+NeoAgent is a local, privacy-first AI desktop assistant built with :contentReference, :contentReference, and :contentReference for real-time desktop intelligence.  
 It can capture your screen, analyze visuals, answer questions, and maintain contextual conversations — all fully offline.  
 Designed as a lightweight system-tray app, NeoAgent supports streaming responses, stealth overlay mode, and persistent chat history.  
 No cloud APIs, no external servers — your data stays entirely on your machine.  
